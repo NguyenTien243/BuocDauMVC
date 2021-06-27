@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\BuocDauMVC\DemoLinQ\DemoLinQ\bin\Debug\DemoLinQ.exe.config
+C:\Users\Admin\Desktop\BuocDauMVC\DemoLinQ\DemoLinQ\bin\Debug\DemoLinQ.exe
+C:\Users\Admin\Desktop\BuocDauMVC\DemoLinQ\DemoLinQ\bin\Debug\DemoLinQ.pdb
+C:\Users\Admin\Desktop\BuocDauMVC\DemoLinQ\DemoLinQ\obj\Debug\DemoLinQ.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\BuocDauMVC\DemoLinQ\DemoLinQ\obj\Debug\DemoLinQ.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BuocDauMVC\DemoLinQ\DemoLinQ\obj\Debug\DemoLinQ.exe
+C:\Users\Admin\Desktop\BuocDauMVC\DemoLinQ\DemoLinQ\obj\Debug\DemoLinQ.pdb
